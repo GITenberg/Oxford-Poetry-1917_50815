@@ -1,0 +1,32 @@
+_repo: Oxford-Poetry-1917_50815
+contributor:
+  creator:
+    editors:
+    - agent_name: Childe, Wilfred Rowland
+      gutenberg_agent_id: '46098'
+      url: http://www.gutenberg.org/2009/agents/46098
+    - agent_name: Sayers, Dorothy Leigh
+      gutenberg_agent_id: '45867'
+      url: http://www.gutenberg.org/2009/agents/45867
+    - agent_name: Earp, Thomas Wade
+      gutenberg_agent_id: '45866'
+      url: http://www.gutenberg.org/2009/agents/45866
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2016-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Oxford Poetry
+
+  1917'
+url: http://www.gutenberg.org/ebooks/50815
